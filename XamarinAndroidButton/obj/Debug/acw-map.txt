@@ -1,0 +1,4 @@
+XamarinAndroidButton.MainActivity, XamarinAndroidButton;md56e593512f95712fe115773beaf26d12f.MainActivity
+XamarinAndroidButton.MainActivity, XamarinAndroidButton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56e593512f95712fe115773beaf26d12f.MainActivity
+XamarinAndroidButton.MainActivity;md56e593512f95712fe115773beaf26d12f.MainActivity
+xamarinandroidbutton.MainActivity;md56e593512f95712fe115773beaf26d12f.MainActivity

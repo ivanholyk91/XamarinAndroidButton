@@ -1,0 +1,16 @@
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\bin\Debug\XamarinAndroidButton.dll
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\bin\Debug\XamarinAndroidButton.pdb
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\bin\Debug\XamarinAndroidButton.XamarinAndroidButton.apk
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\bin\Debug\XamarinAndroidButton.XamarinAndroidButton-Signed.apk
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\XamarinAndroidButton.csproj.CoreCompileInputs.cache
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\XamarinAndroidButton.dll
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\XamarinAndroidButton.pdb
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\android\bin\XamarinAndroidButton.XamarinAndroidButton.apk
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\layout\main.xml
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\values\strings.xml
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\R.cs.flag
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\uploadflags.txt
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\drawable\icon.png
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\drawable\button_border.xml
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\drawable\button_border_radius.xml
+c:\users\ivan\source\repos\XamarinAndroidButton\XamarinAndroidButton\obj\Debug\res\drawable\button_round.xml
